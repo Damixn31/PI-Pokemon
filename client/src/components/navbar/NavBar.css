@@ -1,0 +1,41 @@
+.input {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.btn {
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    color: #fff;
+    background-color: #1b1c1b;
+    border-color: #1b1c1b;
+    
+}
+
+.btn:hover{
+    background-color: #2e302e;
+    border-color: #2e302e;
+}
+
+.btn-back{
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    color: #fff;
+    background-color: #1b1c1b;
+    border-color: #1b1c1b; 
+}
+
+.btn-back:hover{
+    background-color: #2e302e;
+    border-color: #2e302e;
+}
+
+
+
